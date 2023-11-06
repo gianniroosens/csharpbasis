@@ -1,0 +1,15 @@
+/Users/whopperfish/Desktop/Syntra/Examen/examen/bin/Debug/net7.0/examen
+/Users/whopperfish/Desktop/Syntra/Examen/examen/bin/Debug/net7.0/examen.deps.json
+/Users/whopperfish/Desktop/Syntra/Examen/examen/bin/Debug/net7.0/examen.runtimeconfig.json
+/Users/whopperfish/Desktop/Syntra/Examen/examen/bin/Debug/net7.0/examen.dll
+/Users/whopperfish/Desktop/Syntra/Examen/examen/bin/Debug/net7.0/examen.pdb
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/examen.csproj.AssemblyReference.cache
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/examen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/examen.AssemblyInfoInputs.cache
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/examen.AssemblyInfo.cs
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/examen.csproj.CoreCompileInputs.cache
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/examen.dll
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/refint/examen.dll
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/examen.pdb
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/examen.genruntimeconfig.cache
+/Users/whopperfish/Desktop/Syntra/Examen/examen/obj/Debug/net7.0/ref/examen.dll
